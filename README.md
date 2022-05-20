@@ -1,4 +1,4 @@
-# Cowski
+# Cowski0
 - 👋 Hi, I’m @Cowski0
 - 👀 I’m interested in making GUI apps with pyqt  
 - 🌱 I’m currently learning python
