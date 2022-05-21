@@ -1,8 +1,8 @@
 # Cowski0 🥪
 - 👋 Hi, I’m @Cowski0
-- 👀 I’m interested in making GUI apps with pyqt  
+- 👀 I’m interested in making GUI apps with PyQT and PySide  
 - 🌱 I’m currently learning python
-- 📫 How to reach me cowski#4540
+- 📫 My discord is: cowski#4540
 - 🎵 I like music
 - 🧑‍💻 Currently working on https://loona.cc, a website that hosts many helpful services
 - 😹 Discord server: https://discord.gg/GefdQEpNdg
