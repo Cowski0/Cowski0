@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=Cowski0&label=Views&color=2E3440"> </img>
+
 # Cowski0 🥪
 - 👋 Hi, I’m @Cowski0
 - 👀 I’m interested in making GUI apps with PyQT and PySide  
