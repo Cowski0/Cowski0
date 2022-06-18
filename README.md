@@ -12,3 +12,5 @@
 ## My stats 🔭
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cowski0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"></img>  
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cowski0&layout=compact&langs_count=8&theme=algolia"></img>
+
+<img src="https://discord.c99.nl/widget/theme-5/323248768013041675.png" align="center"></img>
