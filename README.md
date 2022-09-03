@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning python
 - 📫 My discord is: cowski#4540
 - 🎵 I like music
-- 🧑‍💻 Currently working on https://loona.cc, a website that hosts many helpful services
+- 🧑‍💻 Working on PyUi3, a package for pyqt to make it look like Microsofts WinUi3
 - 😹 Discord server: https://discord.gg/GefdQEpNdg
 - 🌐 Website: https://cowski0.github.io   
 <center><img src="https://discord.c99.nl/widget/theme-4/323248768013041675.png"></img></center>
